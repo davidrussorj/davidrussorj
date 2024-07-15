@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Arturs
 #### Computer Science Student
-![Computer Science Student](])
 
 I'm David, a brazilian Computer Science student in the Federal University of Rio de Janeiro. Working as an Undergraduate Reseacher at the Sedimentary Geology Laboratory, developing solutions for Porous Calculation using Convolutional Neural Networks.
 
